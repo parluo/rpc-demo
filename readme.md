@@ -1,12 +1,14 @@
 # RPC-Demo
 一个简易的RPC demo实现。
 结构如下
+```
 ├── client		客户端
 ├── common 		server和client公共文件
 ├── namespace 	服务发现
 ├── server 		服务端
 ├── stream		序列化
 └── transport	传输层
+```
 
 ## start
 ```
